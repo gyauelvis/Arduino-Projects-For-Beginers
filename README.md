@@ -1,4 +1,6 @@
-# Arduino_Project_for_Kids
-This is a group of projects I've put together
-The programming language used here is Arduino(C++)
-It contains projects for coding any IoT kit
+<h1>Arduino Project For Beginners </h1>
+
+<p>Hello there 😃, Welcome to this repository.</p>
+
+This repository contains set of Arduino project projects for programming any Arduino kit.
+I hope you find this useful 😄
